@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: mavenwebapp
-          image: milind3597/maven-web-app:TAG
+          image: milind3597/maven-web-app:24
           ports:
             - containerPort: 8080
 ---
